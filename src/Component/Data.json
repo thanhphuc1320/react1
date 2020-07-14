@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Lê Lý Lan Hương",
+        "Phone": "565686999999",
+        "Permission":1
+    },
+    {
+        "id": 2,
+        "name": "Lan Hương",
+        "Phone": "565686999999",
+        "Permission":2
+    },
+    {
+        "id": 3,
+        "name": " Lý Lan Hương",
+        "Phone": "565686999999",
+        "Permission":3
+    },
+    {
+        "id": 4,
+        "name": "Lê Lan Hương",
+        "Phone": "565686999999",
+        "Permission":2
+    },
+    {
+        "id": 5,
+        "name": "Lê Lý Lan Hương",
+        "Phone": "565686999999",
+        "Permission":1
+    }
+]
